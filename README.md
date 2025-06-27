@@ -57,7 +57,7 @@ This repository is created for awareness and verification purposes — to confir
 
 All writeups and content are published **exclusively** on the website:
 
-👉 [https://appsecwriteups.com](https://appsecwriteups.com)
+👉 [https://AppSecWriteups.com](https://appsecwriteups.com)
 
 ---
 
